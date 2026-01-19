@@ -1,0 +1,5 @@
+{
+  "name": "Sispaf - Sistema de Diárias de Servidor",
+  "description": "Uma aplicação completa para gestão e geração de diárias para servidores públicos, com suporte a zonas urbanas e rurais, assistente de redação via IA e exportação em PDF oficial.",
+  "requestFramePermissions": []
+}
